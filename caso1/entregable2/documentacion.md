@@ -77,6 +77,34 @@ Se utilizó este árticulo como referencia: https://www.uifrommars.com/que-es-de
 
 ## 5. Diseñe los wireframes en blanco y negro de las pantallas necesarias para esos flujos prioridad #1 para el negocio.
 
+### **Pantalla De Login:**
+
+![Centro](files/FigmaImage1.png)
+
+### **Pantalla De Menu Principal:**
+
+![Centro](files/FigmaImage2.png)
+
+### **Pantalla De Grabacion De Tareas:**
+
+![Centro](files/FigmaImage3.png)
+
+### **Pantalla De Automatizacion De Tareas:**
+
+![Centro](files/FigmaImage4.png)
+
+### **Pantalla De Guía Interactiva:**
+
+![Centro](files/FigmaImage5.png)
+
+### **Pantalla De Asistencia En Tiempo Real:**
+
+![Centro](files/FigmaImage6.png)
+
+### **Pantalla De Feedback Del Usuario:**
+
+![Centro](files/FigmaImage7.png)
+
 ## 6. Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
 
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados.
