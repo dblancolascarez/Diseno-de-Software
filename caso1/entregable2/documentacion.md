@@ -147,6 +147,15 @@ Se utilizó este árticulo como referencia: https://www.uifrommars.com/que-es-de
 
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados.
 
+Se realizan 6 tareas en la pagina la cuales son:
+
+- **1. Escribir un usuario y contraseña. Luego encontrar el boton de entrar.**
+- **2. En el area de grabacion de tareas, seleccionar el boton de grabar la tarea.**
+- **3. En automatizar de tareas, buscar el boton de editar la tarea automatizada.**
+- **4. En la guia interactiva, buscar el boton  de pasar empezar la ejecucion.**
+- **5. Activar boton de asistencia en vivo.**
+- **6. Dejar una sugenrencia de mejora.**
+
 
 
 ---
