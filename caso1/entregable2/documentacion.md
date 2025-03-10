@@ -107,6 +107,44 @@ Se utilizó este árticulo como referencia: https://www.uifrommars.com/que-es-de
 
 ## 6. Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas.
 
+### **URL Del Programa En Ejecucion**: https://preview--react-photo-mockup-genius.lovable.app/
+
+### **Pantalla De Login:**
+
+![Centro](files/Lovable1.png)
+
+### **Pantalla De Menu Principal:**
+
+![Centro](files/Lovable2.png)
+
+### **Pantalla De Grabacion De Tareas:**
+
+![Centro](files/Lovable3.png)
+
+### **Pantalla De Automatizacion De Tareas:**
+
+![Centro](files/Lovable4.png)
+
+### **Pantalla De Guía Interactiva:**
+
+![Centro](files/Lovable5.png)
+
+### **Pantalla De Asistencia En Tiempo Real:**
+
+![Centro](files/Lovable6.png)
+
+### **Pantalla De Feedback Del Usuario:**
+
+![Centro](files/Lovable7.png)
+
+### **Pantalla De Feedback Del Usuario / Encuentas Para Tareas:**
+
+![Centro](files/Lovable8.png)
+
+### **Pantalla De Feedback Del Usuario / Sugerencias De Mejoras:**
+
+![Centro](files/Lovable9.png)
+
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados.
 
 
