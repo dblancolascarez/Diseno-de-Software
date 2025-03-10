@@ -166,27 +166,27 @@ Y estos son las pruebas de las tres personas, lo cual todas pasaron. Y tambien e
 
 ### **Mapas De Calor**
 
-### 1️⃣
+## 1️⃣
 
 ![Centro](files/Loop11.png)
 
-### 2️⃣
+## 2️⃣
 
 ![Centro](files/Loop2.png)
 
-### 3️⃣
+## 3️⃣
 
 ![Centro](files/Loop3.png)
 
-### 4️⃣
+## 4️⃣
 
 ![Centro](files/Loop4.png)
 
-### 5️⃣
+## 5️⃣
 
 ![Centro](files/Loop5.png)
 
-### 6️⃣
+## 6️⃣
 
 ![Centro](files/Loop6.png)
 
