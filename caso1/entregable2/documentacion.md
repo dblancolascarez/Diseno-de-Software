@@ -156,7 +156,39 @@ Se realizan 6 tareas en la pagina la cuales son:
 - **5. Activar boton de asistencia en vivo.**
 - **6. Dejar una sugenrencia de mejora.**
 
+Y estos son las pruebas de las tres personas, lo cual todas pasaron. Y tambien el mapa de calor del proyecto.
 
+## **PRUEBAS**
+
+### **Tareas Completadas**
+
+![Centro](files/Loop1.png)
+
+### **Mapas De Calor**
+
+1️⃣
+
+![Centro](files/Loop11.png)
+
+2️⃣
+
+![Centro](files/Loop2.png)
+
+3️⃣
+
+![Centro](files/Loop3.png)
+
+4️⃣
+
+![Centro](files/Loop4.png)
+
+5️⃣
+
+![Centro](files/Loop5.png)
+
+6️⃣
+
+![Centro](files/Loop6.png)
 
 ---
 ✍ **Autores:** Luis David Blanco Láscarez, Alex Brenes Garita
